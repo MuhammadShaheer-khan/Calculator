@@ -38,6 +38,7 @@
     background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252));
     outline: none;
 }
+
 .wdt7 {
     width: 72px;
     height: 90px;
@@ -49,14 +50,17 @@
     background: linear-gradient(rgb(40, 241, 255),white,rgb(21, 186, 252) );
     outline: none;
 }
+
 #wdt8 {
     border: 2px solid rgb(243, 37, 99);
     border-width: 3px;
 }
+
 #wdt9 {
     border: 2px solid rgb(247, 43, 104);
     border-width: 3px;
 }
+
 #wdt10 {
     border: 2px solid rgb(243, 50, 108);
     border-width: 3px;
